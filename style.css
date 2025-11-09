@@ -58,7 +58,7 @@ position: relative;
 */
 #header {
   height: 100vh;
-  background-image: url(../img/mainvisual.png);
+  background-image: url(img/mainvisual.png);
   background-size: cover;
   background-position: center ;
   background-repeat: no-repeat;
@@ -254,4 +254,5 @@ SP
     text-align: center;
     padding: 0;
   }
+
 }
